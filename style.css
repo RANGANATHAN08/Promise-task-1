@@ -1,0 +1,29 @@
+
+.card {
+    color: white;
+    background-image: linear-gradient(
+        180deg,
+        rgba(0, 0, 0, 0.2),
+        rgba(0, 0, 0, 0.6)
+      ),
+      url("https://t3.ftcdn.net/jpg/05/52/70/14/360_F_552701425_PVfStKxkJ5gDdGNhNx2g3nE0XvhkDX1A.jpg");
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    visibility: hidden;
+  }
+  h1,
+  h2 {
+    font-family: "Jersey 10 Charted", sans-serif;
+    color: gold;
+    font-weight: 400;
+    font-style: inherit;
+  }
+  h5,
+  h3,
+  input,
+  button {
+    font-family: "Dancing Script", sans-serif;
+    color: whitesmoke;
+  }
